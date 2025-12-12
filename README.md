@@ -1,9 +1,3 @@
-下面是我**修复格式错误、补全缺失反引号、修正列表层级、统一 Markdown 渲染**后生成的**可直接复制粘贴版 README**（不会再出现断裂的代码块、标签显示异常等问题）。
-
----
-
-# 复制即可使用的 README.md
-
 ```markdown
 <p align="center">
   <img src="https://img.shields.io/badge/Platform-ESP32-blueviolet?style=for-the-badge" />
